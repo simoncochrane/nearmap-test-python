@@ -1,5 +1,5 @@
-# nearmap.com Technical Test
-Welcome to [nearmap.com](nearmap.com) Python technical test. The purpose of this assignment is to test your familiarity with distributed systems concepts, performance benchmarking and TDD.
+# Nearmap.com Technical Test
+Welcome to the [Nearmap.com](nearmap.com) Python technical test. The purpose of this assignment is to test your familiarity with distributed systems concepts, performance benchmarking and TDD.
 
 ## Background
 The source code that you are given is a very simple imitation of a name/value store. `DBStore` is the canonical data store that takes a while (50 ms) to store and retrieve data. `CacheStore` is a distributed cache that takes much less time to turn around - 5 ms. This scenario is a simplified example of a typical high performance server cluster with a database, a distributed cache and multiple worker nodes.
